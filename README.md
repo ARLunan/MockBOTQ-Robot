@@ -1,2 +1,2 @@
-# LinoQBOT-Robot
+# MockBOTQ-Robot
 Ubuntu 26.04 / ROS2 Lyrical Robot function supporting a Qualcomm Ventuno Q Single-Board Computer with package architecture based on linorobot2. It combines a Qualcomm Dragonwing™ IQ8 processor and STM32H5 microcontroller, which communicate seamlessly via RPC (Remote Procedure Call) bridge. The Robot Chassis is a 4WD Diff-drive with Hall-Effect Encoders, LD19 Lidar, Oak-D Lite, IMU MCM-20948, Sony DualShock4 manual teleop joystick.  
